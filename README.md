@@ -1,7 +1,3 @@
-18 year old 3D artist, animator, and programmer.
+18 year old 3D artist, animator, and hobby programmer.
 
-Creating the MEngine2 C# game engine.
-
-*For business enquires message me on Discord.*
-
-``PY, C#, C++, JS/WEB, LUA/U``
+``C, C++, C#, .NET, Java, PY, WEB, LUA``
